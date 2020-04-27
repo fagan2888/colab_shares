@@ -1,2 +1,1 @@
-# colab_shares
-Notebooks Shared From Google Colab
+# Notebooks Shared From Google Colab
